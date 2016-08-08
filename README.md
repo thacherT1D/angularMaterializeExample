@@ -6,14 +6,14 @@ The styling in this example is very light, but it is setup to add any functional
 
 Materialize and angular-materialize are very similar, but not exactly the same -- there are things that work in materialize and not in angular-materialize. The most recent documentation on what works or doesn't is available in the [angular-materialize directive docs](http://krescruz.github.io/angular-materialize/#!).
 
-This example has a simple app structure of only three files:
+**This example has a simple app structure of only three files:**
 * index.html
 * app.js
 * style.css
 
 Take a look at the files individually or load the app to view its functionality.
 
-To view this demo project on your computer:
+**To view this demo project on your computer:**
 * clone this repo (fork if you like)
 * cd into the folder
 * run `python -m SimpleHTTPServer 8000`
