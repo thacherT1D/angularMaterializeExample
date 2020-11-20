@@ -1,4 +1,4 @@
-###Adding Materialize to Angular
+### Adding Materialize to Angular
 
 Assuming that you already have a working knowledge of javascript and Angular 1 -- this document will walk you through setting up a basic angular app with the angular-materialize directive based on Materialize CSS.
 
